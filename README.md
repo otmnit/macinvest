@@ -186,10 +186,10 @@ The current version focuses on establishing the core investigation workflow befo
 ### V0.1 — Foundation
 
 * [x] Project structure
-* [ ] CLI
-* [ ] MAC validation
-* [ ] MAC normalization
-* [ ] Basic lookup
+* [x] CLI
+* [x] MAC validation
+* [x] MAC normalization
+* [x] Basic lookup
 
 ### V0.2 — Network Investigation
 
