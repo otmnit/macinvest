@@ -193,9 +193,9 @@ The current version focuses on establishing the core investigation workflow befo
 
 ### V0.2 — Network Investigation
 
-* [ ] Cisco MAC table parsing
-* [ ] Interface identification
-* [ ] SSH connection
+* [x] Cisco MAC table parsing
+* [x] Interface identification
+* [x] SSH connection
 * [ ] Basic error handling
 
 ### V0.3 — Topology
